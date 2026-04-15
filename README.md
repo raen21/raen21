@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:162447,100:4FC3F7&height=200&section=header&text=RAEN21&fontSize=80&fontColor=4FC3F7&fontAlignY=35&animation=twinkling&desc=Automation%20Architect%20%7C%20Creator&descSize=20&descColor=8b949e&descAlignY=60" width="100%" />
 
 <!-- GOJO SATORU — DOMAIN EXPANSION: INFINITE VOID -->
-<img src="./assets/gojo-void.gif" width="480" />
+<img src="./assets/gojo-shibuya.gif" width="480" />
 
 <br/>
 
